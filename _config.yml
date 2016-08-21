@@ -1,14 +1,14 @@
 layout_spectrum: 1
+typography_spectrum: 0.5340502
 color:
   saturation: 0.9686146
   lightness: 0.2447009
   brandStrength: 1
   brandColors:
-    - '#C2C2BA'
-    - '#15181D'
-    - '#FFFFFF'
-    - '#383836'
-    - '#96968C'
+    - '#F2F2F2'
+    - '#000000'
+    - '#C8C8C8'
+    - '#8E8E8E'
+    - '#404040'
   rhythmicContrast: 1
-typography_spectrum: 0.5340502
 name: Heldenkg
