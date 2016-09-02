@@ -1,26 +1,26 @@
-color:
-  saturation: 0.9686146
-  brandStrength: 1
-  rhythmicContrast: 1
-  brandColors:
-    - '#F2F2F2'
-    - '#000000'
-    - '#C8C8C8'
-    - '#8E8E8E'
-    - '#404040'
-  lightness: 0.2447009
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-layout_spectrum: 1
-typography_spectrum: 0.5340502
+color:
+  saturation: 0.9686146
+  brandStrength: 1
+  lightness: 0.4229391
+  brandColors:
+    - '#F2F2F2'
+    - '#000000'
+    - '#C8C8C8'
+    - '#8E8E8E'
+    - '#404040'
+  rhythmicContrast: 1
+typography_spectrum: 0.4623656
+layout_spectrum: 0.749104
 name: Heldenkg
